@@ -1,6 +1,6 @@
 # The monty program
 
-## ***Usage: monty file
+## ***Usage: monty file***
 where file is the path to the file containing Monty byte code
 If the user does not give any file or more than one argument to your program, print the error message USAGE: monty file, followed by a new line, and exit with the status EXIT_FAILURE
 If, for any reason, it’s not possible to open the file, print the error message Error: Can't open file <file>, followed by a new line, and exit with the status EXIT_FAILURE
@@ -13,4 +13,4 @@ it executed properly every line of the file
 it finds an error in the file
 an error occured
 If you can’t malloc anymore, print the error message Error: malloc failed, followed by a new line, and exit with status EXIT_FAILURE.
-You have to use malloc and free and are not allowed to use any other function from man malloc (realloc, calloc, …)***
+You have to use malloc and free and are not allowed to use any other function from man malloc (realloc, calloc, …)
